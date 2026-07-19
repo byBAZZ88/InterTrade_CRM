@@ -1,0 +1,9 @@
+﻿*.db
+*.exe
+*.zip
+*.spec
+build/
+dist/
+__pycache__/
+*.pyc
+backup/
