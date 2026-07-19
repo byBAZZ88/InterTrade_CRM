@@ -21,4 +21,4 @@ Source code is intellectual property of byBAZZ.
 
 CONTACT
 Website: https://bazzsoft.top
-Donate: https://bazzsoft.top/donate
+Donate: https://bazzsoft.top/#support
